@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to make AR apps
 - 💞️ I’m looking to collaborate on videogames uwu
 - 📫 u can find me on ig as @moe.rex
+- my online portfolio: moerex.com
 
 <!---
 moedotrex/moedotrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
